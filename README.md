@@ -7,7 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krnx2002@gmail.com)](mailto:krnx2002@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/karranx-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/karranx)
 ![GitHub followers](https://img.shields.io/github/followers/karranx?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/karranx?style=social)
 
 
 <h1>Hey there! I'm Karan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
