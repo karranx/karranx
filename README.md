@@ -3,11 +3,11 @@
 <!-- <img href="https://www.linkedin.com/in/ritishkhanna" src="https://img.shields.io/badge/ritishkhanna-30302f?style=flat&logo=linkedin"/> -->
  
   
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=917696972351&text=Hi!)](https://api.whatsapp.com/send?phone=917696972351&text=Hi!)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritishkhanna18@gmail.com)](mailto:itishkhanna18@gmail.com)
-[![linkedin badge](https://img.shields.io/badge/ritishkhanna-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritishkhanna)
-![GitHub followers](https://img.shields.io/github/followers/ritishkhanna?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/ritishkhanna?style=social)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krnx2002@gmail.com)](mailto:krnx2002@gmail.com)
+[![linkedin badge](https://img.shields.io/badge/karranx-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/karranx)
+![GitHub followers](https://img.shields.io/github/followers/karranx?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/karranx?style=social)
 
 
 <h1>Hey there! I'm Karan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
