@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Next.JS and TypeScript
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Java
 - 💬 Talk to me about WebDev, Java, Tech
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: bananas are berries, but strawberries aren’t!
