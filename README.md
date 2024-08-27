@@ -7,10 +7,9 @@
 <img align="right" src="./codingcat.gif"/>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Next.JS and TypeScript
+- 🔭 I’m currently working on Next.Js and TypeScript
 - 🌱 I’m currently learning Java
 - 💬 Talk to me about WebDev, Java, Tech
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: bananas are berries, but strawberries aren’t!
 
 <br/>
